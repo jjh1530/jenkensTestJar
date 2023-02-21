@@ -10,6 +10,6 @@ public class Test {
 	@RequestMapping("/")
 	@ResponseBody
 	public String injdex() {
-		return"git branch Test";
+		return"git Bash Test";
 	}
 }
